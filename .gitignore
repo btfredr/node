@@ -1,0 +1,6 @@
+# Ignorer sensitive filer og unødvendige mapper
+wp-config.php
+wp-content/uploads/
+*.log
+.htaccess
+wp-content/cache/
